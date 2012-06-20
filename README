@@ -4,7 +4,7 @@ Access to Daymet data is available on a number of different levels and formats a
 
 http://daymet.ornl.gov
 
-This Git Hub repository is intended to server as a method of collecting and distributing tools writen in languages such as Matlab, IDL, Python, Bash, etc.  If you would like to contribute you may do so via GitHub, or contact the Daymet team via http://daymet.ornl.gov/contact
+This GitHub repository is intended to serve as a method of collecting and distributing tools writen in languages such as Matlab, IDL, Python, Bash, etc.  If you would like to contribute you may do so via GitHub, or contact the Daymet team via http://daymet.ornl.gov/contact
 
 Citation Information is available at:
 http://daymet.ornl.gov/sites/default/files/Daymet_Reference_Citation.pdf
